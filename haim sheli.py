@@ -1,3 +1,7 @@
-num=5
+#math
 
-print("your number is: " + str(num))
+num=4567
+
+
+print("Asarot=" + str(num//700))
+print("Ahadot=" + str(num//600))
